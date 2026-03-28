@@ -1,3 +1,47 @@
-# Godot 4+ specific ignores
+# Godot
 .godot/
-/android/
+
+# Builds
+/Build/*
+
+# Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Mono
+.mono/
+data_*/
+mono_crash.*.json
+
+# Temporary Files
+*.spp.painter_lock
+*.assbin
+*.alg_meta
+/Reference
+
+# Autosaves
+*.blend*
+!*.blend
+*bak*.hip*
+*bak*.hda*
+*.autosave
+*_autosave_*.spp
+
+# Linux
+*~
+.directory
+*.kate-swp
+
+# Windows 
+ehthumbs.db
+Thumbs.db
+
+# Mac 
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
