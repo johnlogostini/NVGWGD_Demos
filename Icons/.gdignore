@@ -1,0 +1,1 @@
+This file prevents Godot from seeing anything in this folder from within the file manager. This path can still be accessed directly if specified, but it won’t be visible by default.
