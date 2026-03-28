@@ -1,0 +1,3 @@
+[submodule "Worlds/Sponza"]
+	path = Worlds/Sponza
+	url = git@github.com:johnlogostini/NVGWGD_Sponza.git
