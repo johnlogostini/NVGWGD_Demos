@@ -53,6 +53,8 @@ texture={
 
 [rendering]
 
+lights_and_shadows/directional_shadow/soft_shadow_filter_quality=5
+lights_and_shadows/positional_shadow/soft_shadow_filter_quality=5
 global_illumination/voxel_gi/quality=1
 environment/ssao/quality=4
 environment/ssao/half_size=false
