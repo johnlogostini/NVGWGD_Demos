@@ -53,6 +53,7 @@ texture={
 
 [rendering]
 
+global_illumination/voxel_gi/quality=1
 environment/ssao/quality=4
 environment/ssao/half_size=false
 environment/ssao/adaptive_target=1.0
