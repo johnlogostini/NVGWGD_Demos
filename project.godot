@@ -50,3 +50,10 @@ texture={
 [physics]
 
 3d/physics_engine="Jolt Physics"
+
+[rendering]
+
+environment/ssao/quality=4
+environment/ssao/half_size=false
+environment/ssao/adaptive_target=1.0
+environment/ssao/blur_passes=0
