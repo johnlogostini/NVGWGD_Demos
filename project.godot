@@ -63,5 +63,6 @@ environment/ssil/half_size=false
 environment/ssil/adaptive_target=1.0
 environment/ssil/blur_passes=0
 anti_aliasing/quality/msaa_3d=3
+environment/screen_space_reflection/half_size=false
 global_illumination/sdfgi/probe_ray_count=5
 anti_aliasing/quality/screen_space_aa=2
