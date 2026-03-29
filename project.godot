@@ -15,6 +15,10 @@ config/description="A collection of demonstrations for NVIDIA GameWorks technolo
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://Icons/Project.svg"
 
+[filesystem]
+
+import/blender/enabled=false
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
