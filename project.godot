@@ -68,4 +68,6 @@ anti_aliasing/quality/msaa_3d=3
 scaling_3d/mode=5
 environment/screen_space_reflection/half_size=false
 global_illumination/sdfgi/probe_ray_count=5
+environment/volumetric_fog/volume_size=128
+environment/volumetric_fog/volume_depth=128
 anti_aliasing/quality/screen_space_aa=2
