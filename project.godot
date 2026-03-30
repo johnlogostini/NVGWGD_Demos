@@ -16,7 +16,11 @@ config/version="0.0.1"
 config/use_custom_user_dir=true
 config/custom_user_dir_name="NVIDIA/GameWorks Demos"
 config/features=PackedStringArray("4.7", "Forward Plus")
+boot_splash/bg_color=Color(0.4627451, 0.7254902, 0, 1)
+boot_splash/show_image=false
+boot_splash/image="res://Icons/Splash.png"
 config/icon="res://Icons/Project.svg"
+boot_splash/minimum_display_time=3000
 
 [filesystem]
 
