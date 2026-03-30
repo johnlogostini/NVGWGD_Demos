@@ -1,3 +1,6 @@
 [submodule "Worlds/Sponza"]
 	path = Worlds/Sponza
 	url = git@github.com:johnlogostini/NVGWGD_Sponza.git
+[submodule "Worlds/Kitchen"]
+	path = Worlds/Kitchen
+	url = git@github.com:johnlogostini/NVGWGD_Kitchen.git
