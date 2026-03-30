@@ -20,6 +20,7 @@ boot_splash/bg_color=Color(0.4627451, 0.7254902, 0, 1)
 boot_splash/show_image=false
 boot_splash/image="res://Icons/Splash.png"
 config/icon="res://Icons/Project.svg"
+config/windows_native_icon="res://Icons/Windows.ico"
 boot_splash/minimum_display_time=3000
 
 [filesystem]
