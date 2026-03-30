@@ -12,6 +12,7 @@ config_version=5
 
 config/name="NVIDIA GameWorks Demos"
 config/description="A collection of demonstrations for NVIDIA GameWorks technologies in the Godot engine, such as real-time Path-Tracing."
+config/version="0.0.1"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://Icons/Project.svg"
 
