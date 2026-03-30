@@ -23,6 +23,10 @@ config/icon="res://Icons/Project.svg"
 config/windows_native_icon="res://Icons/Windows.ico"
 boot_splash/minimum_display_time=3000
 
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
 [filesystem]
 
 import/blender/enabled=false
