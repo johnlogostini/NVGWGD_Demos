@@ -7,3 +7,6 @@
 [submodule "Characters"]
 	path = Characters
 	url = git@github.com:johnlogostini/NVGWGD_Characters.git
+[submodule "Worlds/Zorah"]
+	path = Worlds/Zorah
+	url = git@github.com:johnlogostini/NVGWGD_Zorah.git
