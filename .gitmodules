@@ -4,3 +4,6 @@
 [submodule "Characters"]
 	path = Characters
 	url = git@github.com:johnlogostini/NVGWGD_Characters.git
+[submodule "Worlds/Attic"]
+	path = Worlds/Attic
+	url = git@github.com:johnlogostini/NVGWGD_Attic.git
