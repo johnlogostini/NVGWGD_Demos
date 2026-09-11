@@ -148,9 +148,6 @@ transform = Transform3D(-4.371139e-08, 0.99999994, 1.1920929e-07, 0, -1.1920928e
 [node name="Castle_Module_Wall_07" parent="Geometry/Modules" unique_id=1659777599 instance=ExtResource("3_40r0y")]
 transform = Transform3D(-4.371139e-08, 0.99999994, 1.1920929e-07, 0, -1.1920928e-07, 0.9999999, 0.99999994, 4.371138e-08, 5.210803e-15, 20, 0, 0)
 
-[node name="Castle_Module_Floor_19" parent="Geometry/Modules" unique_id=1281910970 instance=ExtResource("2_2xjv0")]
-transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 16, 0, -2)
-
 [node name="Castle_Module_Wall_09" parent="Geometry/Modules" unique_id=276514010 instance=ExtResource("3_40r0y")]
 transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.1920928e-07, 0.9999999, -0.99999994, 4.371138e-08, 5.210803e-15, 18, 0, -2)
 
@@ -712,3 +709,68 @@ transform = Transform3D(-4.3711378e-08, 0.9999999, 1.19209275e-07, 3.1058804e-22
 
 [node name="Castle_Module_Wall_105" parent="Geometry/Modules" unique_id=688772861 instance=ExtResource("3_40r0y")]
 transform = Transform3D(-4.3711378e-08, 0.9999999, 1.19209275e-07, 3.1058804e-22, -1.19209275e-07, 0.9999999, 0.9999999, 4.3711385e-08, -1.6105473e-14, 8, 6, -12)
+
+[node name="Occlusion Volumes" type="CSGCombiner3D" parent="Geometry" unique_id=1994456703]
+
+[node name="CSGBox3D" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=921643026]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.85, 3.4999998, 1.9499996)
+size = Vector3(22.5, 7.2000003, 4.9)
+
+[node name="CSGBox3D2" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=1430002254]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5, 1.4499999, 2.0000002)
+size = Vector3(6.2000003, 3.1000001, 4.2000003)
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="Geometry/Occlusion Volumes" unique_id=2001013019]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, 2, 2)
+radius = 2.2
+height = 16.0
+sides = 32
+
+[node name="CSGBox3D3" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=483263719]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 3.65, -6.2)
+size = Vector3(2.4, 9.5, 12.2)
+
+[node name="CSGBox3D4" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=1880657500]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6.2, 6.9179935, -11.049999)
+size = Vector3(4, 6.2000003, 2.5)
+
+[node name="CSGBox3D5" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=1165605491]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.05, 1.8500001, -1.8500001)
+size = Vector3(2.1000001, 4.3, 4.7000003)
+
+[node name="CSGBox3D6" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=657163078]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10.85, 1.8499999, -3.0499995)
+size = Vector3(2.3, 4.3, 2.3)
+
+[node name="CSGBox3D7" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=2110062909]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 18.999998, 0.9500003, -4.5500007)
+size = Vector3(2.2, 6.5, 8.1)
+
+[node name="CSGBox3D8" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=987412742]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15.9, -0.15000015, -7.25)
+size = Vector3(4, 4.3, 2.7)
+
+[node name="CSGBox3D9" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=750329727]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1.8500001, 5.1499996)
+operation = 2
+size = Vector3(1.6, 1.9, 1.7)
+
+[node name="CSGBox3D10" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=1351502340]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5, 1.8500001, 5.1499996)
+operation = 2
+size = Vector3(1.6, 1.9, 1.7)
+
+[node name="CSGBox3D11" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=1864368003]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9, 1.8500001, 5.1499996)
+operation = 2
+size = Vector3(1.6, 1.9, 1.7)
+
+[node name="CSGBox3D12" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=1800823355]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13, 1.8500001, 5.1499996)
+operation = 2
+size = Vector3(1.6, 1.9, 1.7)
+
+[node name="CSGBox3D13" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=1567967760]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 17, 1.8500001, 5.1499996)
+operation = 2
+size = Vector3(1.6, 1.9, 1.7)
