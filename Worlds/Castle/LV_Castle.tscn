@@ -370,7 +370,7 @@ transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, 
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, -2, 2, 0)
 
 [node name="Castle_Module_Wall_35" parent="Geometry/Modules" unique_id=2116805867 instance=ExtResource("3_40r0y")]
-transform = Transform3D(-1, 8.742277e-08, 1.0421607e-14, 0, -1.1920928e-07, 0.9999999, 8.742277e-08, 0.9999999, 1.1920928e-07, 20.000027, 4.0014477, 3.9999168)
+transform = Transform3D(-1, 8.742277e-08, 1.0421607e-14, 0, -1.1920928e-07, 0.9999999, 8.742277e-08, 0.9999999, 1.1920928e-07, 20, 4, 4)
 
 [node name="Castle_Module_Ceiling_08" parent="Geometry/Modules" unique_id=294444421 instance=ExtResource("16_1ecsm")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 14, 4, 0)
