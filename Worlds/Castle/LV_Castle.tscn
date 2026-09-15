@@ -28,6 +28,30 @@
 [ext_resource type="PackedScene" uid="uid://ko3rf62mqryv" path="res://Worlds/Castle/Assets/Geometry/Modules/Castle_Module_Window_02.fbx" id="26_o4oiw"]
 [ext_resource type="PackedScene" uid="uid://bxt64vm3jxhh3" path="res://Worlds/Castle/Assets/Geometry/Modules/Castle_Module_Wall_07.fbx" id="27_ui41x"]
 
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_48il6"]
+sky_energy_multiplier = 2.0
+ground_energy_multiplier = 2.0
+
+[sub_resource type="Sky" id="Sky_ui41x"]
+sky_material = SubResource("ProceduralSkyMaterial_48il6")
+
+[sub_resource type="Environment" id="Environment_ui41x"]
+background_mode = 2
+sky = SubResource("Sky_ui41x")
+ambient_light_source = 3
+ambient_light_sky_contribution = 0.02
+reflected_light_source = 1
+ssr_enabled = true
+ssr_max_steps = 128
+ssao_enabled = true
+ssao_radius = 2.0
+ssao_intensity = 1.5
+ssao_power = 3.0
+ssil_enabled = true
+sdfgi_enabled = true
+sdfgi_use_occlusion = true
+sdfgi_read_sky_light = false
+
 [node name="Castle" type="Node3D" unique_id=75549172]
 
 [node name="Cameras" type="Node3D" parent="." unique_id=2136683861]
@@ -880,3 +904,6 @@ light_bake_mode = 1
 shadow_enabled = true
 distance_fade_begin = 15.0
 omni_range = 10.0
+
+[node name="World Environment" type="WorldEnvironment" parent="Lighting" unique_id=909568201]
+environment = SubResource("Environment_ui41x")
