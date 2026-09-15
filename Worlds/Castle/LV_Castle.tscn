@@ -41,6 +41,7 @@ sky = SubResource("Sky_ui41x")
 ambient_light_source = 3
 ambient_light_sky_contribution = 0.02
 reflected_light_source = 1
+tonemap_mode = 1
 ssr_enabled = true
 ssr_max_steps = 128
 ssao_enabled = true
@@ -51,6 +52,18 @@ ssil_enabled = true
 sdfgi_enabled = true
 sdfgi_use_occlusion = true
 sdfgi_read_sky_light = false
+fog_enabled = true
+fog_mode = 1
+fog_light_color = Color(1, 0.5625, 0.25, 1)
+fog_sun_scatter = 0.01
+fog_density = 0.1
+fog_aerial_perspective = 0.5
+fog_sky_affect = 0.0
+fog_depth_begin = 2.0
+volumetric_fog_enabled = true
+volumetric_fog_density = 0.005
+adjustment_enabled = true
+adjustment_contrast = 1.05
 
 [node name="Castle" type="Node3D" unique_id=75549172]
 
