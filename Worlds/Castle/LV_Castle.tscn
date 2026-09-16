@@ -809,7 +809,6 @@ transform = Transform3D(-4.3711378e-08, 0.9999999, 1.19209275e-07, 3.1058804e-22
 transform = Transform3D(0.9999999, -7.1054274e-15, 2.1316277e-14, -3.1058807e-22, -1.19209275e-07, 0.9999999, 0, -0.9999999, -1.19209275e-07, 10, 0, -4)
 
 [node name="Occlusion Volumes" type="CSGCombiner3D" parent="Geometry" unique_id=1994456703]
-visible = false
 
 [node name="CSGBox3D" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=921643026]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.85, 3.4999998, 1.9499996)
