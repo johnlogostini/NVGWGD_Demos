@@ -194,9 +194,6 @@ transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.192092
 [node name="Castle_Module_Wall_11" parent="Geometry/Modules" unique_id=1316092313 instance=ExtResource("3_40r0y")]
 transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.1920928e-07, 0.9999999, -0.99999994, 4.371138e-08, 5.210803e-15, 18, 0, -4)
 
-[node name="Castle_Module_Wall_12" parent="Geometry/Modules" unique_id=1465094584 instance=ExtResource("3_40r0y")]
-transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.1920928e-07, 0.9999999, -0.99999994, 4.371138e-08, 5.210803e-15, 18, -2, -4)
-
 [node name="Castle_Module_Wall_13" parent="Geometry/Modules" unique_id=1577809307 instance=ExtResource("3_40r0y")]
 transform = Transform3D(-4.371139e-08, 0.99999994, 1.1920929e-07, 0, -1.1920928e-07, 0.9999999, 0.99999994, 4.371138e-08, 5.210803e-15, 20, 0, -4)
 
@@ -226,15 +223,6 @@ transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, 
 
 [node name="Castle_Module_Wall_20" parent="Geometry/Modules" unique_id=923488658 instance=ExtResource("3_40r0y")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 16, -2, -8)
-
-[node name="Castle_Module_Wall_21" parent="Geometry/Modules" unique_id=2118615456 instance=ExtResource("3_40r0y")]
-transform = Transform3D(-1, 8.742277e-08, 1.0421607e-14, 0, -1.1920928e-07, 0.9999999, 8.742277e-08, 0.9999999, 1.1920928e-07, 16, -2, -6)
-
-[node name="Castle_Module_Wall_22" parent="Geometry/Modules" unique_id=239610836 instance=ExtResource("3_40r0y")]
-transform = Transform3D(-1, 8.742277e-08, 1.0421607e-14, 0, -1.1920928e-07, 0.9999999, 8.742277e-08, 0.9999999, 1.1920928e-07, 18, -2, -6)
-
-[node name="Castle_Module_Wall_23" parent="Geometry/Modules" unique_id=390140860 instance=ExtResource("3_40r0y")]
-transform = Transform3D(-4.3711374e-08, -0.9999999, -1.1920928e-07, 0, -1.1920928e-07, 0.9999999, -1, 4.3711378e-08, 5.210803e-15, 14, -2, -6)
 
 [node name="Castle_Module_Wall_24" parent="Geometry/Modules" unique_id=1794608327 instance=ExtResource("3_40r0y")]
 transform = Transform3D(-4.3711374e-08, -0.9999999, -1.1920928e-07, 0, -1.1920928e-07, 0.9999999, -1, 4.3711378e-08, 5.210803e-15, 14, 0, -6)
@@ -357,9 +345,6 @@ transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, 
 
 [node name="Castle_Module_Floor_33" parent="Geometry/Modules" unique_id=663802505 instance=ExtResource("2_2xjv0")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 16, 0, 4)
-
-[node name="Castle_Module_Wall_37" parent="Geometry/Modules" unique_id=1345574416 instance=ExtResource("3_40r0y")]
-transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 14, 0, 0)
 
 [node name="Castle_Module_Wall_40" parent="Geometry/Modules" unique_id=581703588 instance=ExtResource("3_40r0y")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 8, 0, 0)
@@ -514,9 +499,6 @@ transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, 
 [node name="Castle_Module_Window_02" parent="Geometry/Modules" unique_id=1142579461 instance=ExtResource("26_o4oiw")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 18, 4, 0)
 
-[node name="Castle_Module_Wall_42" parent="Geometry/Modules" unique_id=1260780696 instance=ExtResource("3_40r0y")]
-transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 4, 0, 0)
-
 [node name="Castle_Module_Wall_51" parent="Geometry/Modules" unique_id=1227290040 instance=ExtResource("3_40r0y")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 4, 2, 0)
 
@@ -526,8 +508,6 @@ transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, 
 [node name="Castle_Module_Floor_38" parent="Geometry/Modules" unique_id=2142741810 instance=ExtResource("2_2xjv0")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 2, 0, -2)
 
-[node name="Castle_Module_Wall_39" parent="Geometry/Modules" unique_id=1300251134 instance=ExtResource("3_40r0y")]
-
 [node name="Castle_Module_Wall_43" parent="Geometry/Modules" unique_id=2010134411 instance=ExtResource("3_40r0y")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 0, 2, 0)
 
@@ -536,9 +516,6 @@ transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, 
 
 [node name="Castle_Module_Wall_44" parent="Geometry/Modules" unique_id=552554322 instance=ExtResource("27_ui41x")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 12, 2, 0)
-
-[node name="Castle_Module_Wall_47" parent="Geometry/Modules" unique_id=1680454702 instance=ExtResource("3_40r0y")]
-transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 10, 0, 0)
 
 [node name="Castle_Module_Wall_52" parent="Geometry/Modules" unique_id=1831763101 instance=ExtResource("3_40r0y")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 10, 2, 0)
@@ -558,23 +535,11 @@ transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.192092
 [node name="Castle_Module_Wall_53" parent="Geometry/Modules" unique_id=823419984 instance=ExtResource("6_44l3u")]
 transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.1920928e-07, 0.9999999, -0.99999994, 4.371138e-08, 5.210803e-15, 12, 2, -4)
 
-[node name="Castle_Module_Wall_55" parent="Geometry/Modules" unique_id=1123641801 instance=ExtResource("3_40r0y")]
-transform = Transform3D(-4.371139e-08, 0.99999994, 1.1920929e-07, 0, -1.1920928e-07, 0.9999999, 0.99999994, 4.371138e-08, 5.210803e-15, 14, 0, -2)
-
-[node name="Castle_Module_Wall_56" parent="Geometry/Modules" unique_id=1441815911 instance=ExtResource("3_40r0y")]
-transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.1920928e-07, 0.9999999, -0.99999994, 4.371138e-08, 5.210803e-15, 12, 0, 0)
-
 [node name="Castle_Module_Floor_42" parent="Geometry/Modules" unique_id=1928908111 instance=ExtResource("2_2xjv0")]
 transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 10, 0, -4)
 
-[node name="Castle_Module_Wall_57" parent="Geometry/Modules" unique_id=1624448717 instance=ExtResource("6_44l3u")]
-transform = Transform3D(-1, -8.742277e-08, -1.0421607e-14, 0, -1.1920928e-07, 0.9999999, -8.742277e-08, 0.9999999, 1.1920928e-07, 10, 0, -2)
-
 [node name="Castle_Module_Wall_58" parent="Geometry/Modules" unique_id=1585179120 instance=ExtResource("6_44l3u")]
 transform = Transform3D(-1, -8.742277e-08, -1.0421607e-14, 0, -1.1920928e-07, 0.9999999, -8.742277e-08, 0.9999999, 1.1920928e-07, 10, 2, -2)
-
-[node name="Castle_Module_Wall_59" parent="Geometry/Modules" unique_id=385391590 instance=ExtResource("3_40r0y")]
-transform = Transform3D(-1, 8.742277e-08, 1.0421607e-14, 0, -1.1920928e-07, 0.9999999, 8.742277e-08, 0.9999999, 1.1920928e-07, 12, 0, -2)
 
 [node name="Castle_Module_Wall_63" parent="Geometry/Modules" unique_id=57131717 instance=ExtResource("3_40r0y")]
 transform = Transform3D(-1, 8.742277e-08, 1.0421607e-14, 0, -1.1920928e-07, 0.9999999, 8.742277e-08, 0.9999999, 1.1920928e-07, 12, 2, -2)
@@ -597,14 +562,8 @@ transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, 
 [node name="Castle_Module_Ceiling_20" parent="Geometry/Modules" unique_id=1477664950 instance=ExtResource("10_02pjg")]
 transform = Transform3D(2.980231e-08, -0.99999994, -1.6292068e-07, -1, 0, 5.9604645e-08, -1.1920929e-07, 1.92723e-07, -1, 2, 2, 0)
 
-[node name="Castle_Module_Wall_64" parent="Geometry/Modules" unique_id=1443827016 instance=ExtResource("3_40r0y")]
-transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.1920928e-07, 0.9999999, -0.99999994, 4.371138e-08, 5.210803e-15, 2, 0, 0)
-
 [node name="Castle_Module_Wall_65" parent="Geometry/Modules" unique_id=605539743 instance=ExtResource("3_40r0y")]
 transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.1920928e-07, 0.9999999, -0.99999994, 4.371138e-08, 5.210803e-15, 2, 2, 0)
-
-[node name="Castle_Module_Wall_66" parent="Geometry/Modules" unique_id=1414408483 instance=ExtResource("3_40r0y")]
-transform = Transform3D(8.940697e-08, 0.9999999, 1.19209254e-07, 3.105881e-22, -1.19209275e-07, 0.9999999, 0.9999999, -8.940697e-08, -1.7763568e-14, 4, 0, -2)
 
 [node name="Castle_Module_Wall_67" parent="Geometry/Modules" unique_id=75471214 instance=ExtResource("3_40r0y")]
 transform = Transform3D(8.940697e-08, 0.9999999, 1.19209254e-07, 3.105881e-22, -1.19209275e-07, 0.9999999, 0.9999999, -8.940697e-08, -1.7763568e-14, 4, 2, -2)
@@ -747,7 +706,110 @@ transform = Transform3D(-4.3711378e-08, 0.9999999, 1.19209275e-07, 3.1058804e-22
 [node name="Castle_Module_Wall_105" parent="Geometry/Modules" unique_id=688772861 instance=ExtResource("3_40r0y")]
 transform = Transform3D(-4.3711378e-08, 0.9999999, 1.19209275e-07, 3.1058804e-22, -1.19209275e-07, 0.9999999, 0.9999999, 4.3711385e-08, -1.6105473e-14, 8, 6, -12)
 
+[node name="Castle_Module_Floor_19" parent="Geometry/Modules" unique_id=714867215 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, -2, 0, -2)
+
+[node name="Castle_Module_Floor_40" parent="Geometry/Modules" unique_id=402146049 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 2, 0, 4)
+
+[node name="Castle_Module_Floor_43" parent="Geometry/Modules" unique_id=187421871 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, -2, 0, 4)
+
+[node name="Castle_Module_Floor_44" parent="Geometry/Modules" unique_id=159449249 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 0, 0, -2)
+
+[node name="Castle_Module_Floor_45" parent="Geometry/Modules" unique_id=1976253438 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 0, 0, -4)
+
+[node name="Castle_Module_Floor_46" parent="Geometry/Modules" unique_id=744720518 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 0, 0, -6)
+
+[node name="Castle_Module_Floor_47" parent="Geometry/Modules" unique_id=925246471 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 2, 0, -4)
+
+[node name="Castle_Module_Floor_48" parent="Geometry/Modules" unique_id=681598641 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 2, 0, -6)
+
+[node name="Castle_Module_Floor_49" parent="Geometry/Modules" unique_id=1717221254 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 4, 0, -6)
+
+[node name="Castle_Module_Floor_50" parent="Geometry/Modules" unique_id=1335972142 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 4, 0, -4)
+
+[node name="Castle_Module_Floor_51" parent="Geometry/Modules" unique_id=1518219771 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 4, 0, -2)
+
+[node name="Castle_Module_Floor_52" parent="Geometry/Modules" unique_id=2113936571 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 0, 4, -12)
+
+[node name="Castle_Module_Floor_54" parent="Geometry/Modules" unique_id=1962625119 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 2, 4, -14)
+
+[node name="Castle_Module_Floor_55" parent="Geometry/Modules" unique_id=706920399 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 4, 4, -14)
+
+[node name="Castle_Module_Floor_56" parent="Geometry/Modules" unique_id=383368372 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 4, 4, -12)
+
+[node name="Castle_Module_Floor_57" parent="Geometry/Modules" unique_id=719712855 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 4, 4, -10)
+
+[node name="Castle_Module_Floor_58" parent="Geometry/Modules" unique_id=567608313 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 6, 4, -10)
+
+[node name="Castle_Module_Floor_59" parent="Geometry/Modules" unique_id=842998343 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 6, 4, -12)
+
+[node name="Castle_Module_Floor_60" parent="Geometry/Modules" unique_id=1397104242 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 6, 4, -14)
+
+[node name="Castle_Module_Floor_53" parent="Geometry/Modules" unique_id=494993832 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 20, -2, -8)
+
+[node name="Castle_Module_Floor_61" parent="Geometry/Modules" unique_id=964044554 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 18, -2, -10)
+
+[node name="Castle_Module_Floor_62" parent="Geometry/Modules" unique_id=901476689 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 16, -2, -10)
+
+[node name="Castle_Module_Floor_63" parent="Geometry/Modules" unique_id=118677975 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 14, -2, -10)
+
+[node name="Castle_Module_Floor_64" parent="Geometry/Modules" unique_id=513837992 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 12, -2, -8)
+
+[node name="Castle_Module_Floor_65" parent="Geometry/Modules" unique_id=123470866 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 14, -2, -6)
+
+[node name="Castle_Module_Floor_66" parent="Geometry/Modules" unique_id=1347125985 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 16, -2, -6)
+
+[node name="Castle_Module_Floor_67" parent="Geometry/Modules" unique_id=585288593 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 18, -2, -4)
+
+[node name="Castle_Module_Wall_82" parent="Geometry/Modules" unique_id=263308656 instance=ExtResource("3_40r0y")]
+transform = Transform3D(-0.9999999, -8.7422755e-08, 1.0894673e-14, -3.1058807e-22, -1.19209275e-07, 0.9999999, -8.742276e-08, 0.9999999, 1.19209275e-07, 20, -2, -2)
+
+[node name="Castle_Module_Wall_106" parent="Geometry/Modules" unique_id=84645256 instance=ExtResource("3_40r0y")]
+transform = Transform3D(0.9999999, 7.1054274e-15, -2.1316277e-14, 3.1058807e-22, -1.19209275e-07, 0.9999999, 0, -0.9999999, -1.19209275e-07, 2, 0, -6)
+
+[node name="Castle_Module_Wall_107" parent="Geometry/Modules" unique_id=1645407676 instance=ExtResource("3_40r0y")]
+transform = Transform3D(0.9999999, 7.1054274e-15, -2.1316277e-14, 3.1058807e-22, -1.19209275e-07, 0.9999999, 0, -0.9999999, -1.19209275e-07, 2, 1, -8)
+
+[node name="Castle_Module_Wall_108" parent="Geometry/Modules" unique_id=32699967 instance=ExtResource("3_40r0y")]
+transform = Transform3D(0.9999999, 7.1054274e-15, -2.1316277e-14, 3.1058807e-22, -1.19209275e-07, 0.9999999, 0, -0.9999999, -1.19209275e-07, 2, 2, -10)
+
+[node name="Castle_Module_Floor_68" parent="Geometry/Modules" unique_id=551040073 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 2, 1, -8)
+
+[node name="Castle_Module_Wall_109" parent="Geometry/Modules" unique_id=270223349 instance=ExtResource("3_40r0y")]
+transform = Transform3D(-4.3711378e-08, 0.9999999, 1.19209275e-07, 3.1058804e-22, -1.19209275e-07, 0.9999999, 0.9999999, 4.3711385e-08, -1.6105473e-14, 8, 4, -12)
+
+[node name="Castle_Module_Wall_37" parent="Geometry/Modules" unique_id=1354694833 instance=ExtResource("3_40r0y")]
+transform = Transform3D(0.9999999, -7.1054274e-15, 2.1316277e-14, -3.1058807e-22, -1.19209275e-07, 0.9999999, 0, -0.9999999, -1.19209275e-07, 10, 0, -4)
+
 [node name="Occlusion Volumes" type="CSGCombiner3D" parent="Geometry" unique_id=1994456703]
+visible = false
 
 [node name="CSGBox3D" type="CSGBox3D" parent="Geometry/Occlusion Volumes" unique_id=921643026]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.85, 3.4999998, 1.9499996)
@@ -920,3 +982,74 @@ omni_range = 10.0
 
 [node name="World Environment" type="WorldEnvironment" parent="Lighting" unique_id=909568201]
 environment = SubResource("Environment_ui41x")
+
+[node name="Castle_Module_Floor_01" parent="." unique_id=1252491595 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 6, 0, -2)
+
+[node name="Castle_Module_Floor_02" parent="." unique_id=522177163 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 8, 0, -2)
+
+[node name="Castle_Module_Floor_03" parent="." unique_id=1038231677 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 10, 0, -2)
+
+[node name="Castle_Module_Floor_04" parent="." unique_id=99396069 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 8, 0, -4)
+
+[node name="Castle_Module_Floor_05" parent="." unique_id=3119781 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 10, 0, -6)
+
+[node name="Castle_Module_Floor_06" parent="." unique_id=210511426 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 12, 0, -6)
+
+[node name="Castle_Module_Floor_07" parent="." unique_id=1746030985 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 14, 0, -4)
+
+[node name="Castle_Module_Floor_08" parent="." unique_id=1901804683 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 14, 0, -2)
+
+[node name="Castle_Module_Floor_09" parent="." unique_id=380831870 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 16, 0, -2)
+
+[node name="Castle_Module_Floor_10" parent="." unique_id=396514025 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 20, 0, -2)
+
+[node name="Castle_Module_Floor_11" parent="." unique_id=559632734 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 20, 0, 0)
+
+[node name="Castle_Module_Floor_12" parent="." unique_id=845805754 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 20, 0, 2)
+
+[node name="Castle_Module_Floor_13" parent="." unique_id=1695369382 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 18, 0, 4)
+
+[node name="Castle_Module_Floor_14" parent="." unique_id=740005294 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 14, 0, 4)
+
+[node name="Castle_Module_Floor_15" parent="." unique_id=756956174 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 10, 0, 4)
+
+[node name="Castle_Module_Floor_16" parent="." unique_id=1187540962 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 6, 0, 4)
+
+[node name="Castle_Module_Floor_39" parent="." unique_id=59591852 instance=ExtResource("2_2xjv0")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 2, 2, -10)
+
+[node name="Castle_Module_Wall_02" parent="." unique_id=727759203 instance=ExtResource("5_44l3u")]
+transform = Transform3D(-4.371139e-08, 0.99999994, 1.1920929e-07, 0, -1.1920928e-07, 0.9999999, 0.99999994, 4.371138e-08, 5.210803e-15, 14, 0, -2)
+
+[node name="Castle_Module_Wall_03" parent="." unique_id=1874197416 instance=ExtResource("5_44l3u")]
+transform = Transform3D(1, 0, 0, 0, -1.1920929e-07, 0.99999994, 0, -0.99999994, -1.1920929e-07, 10, 0, 0)
+
+[node name="Castle_Module_Wall_04" parent="." unique_id=88513518 instance=ExtResource("6_44l3u")]
+transform = Transform3D(-4.371139e-08, 0.99999994, 1.1920929e-07, 0, -1.1920928e-07, 0.9999999, 0.99999994, 4.371138e-08, 5.210803e-15, 12, 0, -2)
+
+[node name="Castle_Module_Wall_05" parent="." unique_id=1599425032 instance=ExtResource("5_44l3u")]
+
+[node name="Castle_Module_Wall_06" parent="." unique_id=1265485629 instance=ExtResource("5_44l3u")]
+transform = Transform3D(-4.371139e-08, 0.99999994, 1.1920929e-07, 0, -1.1920928e-07, 0.9999999, 0.99999994, 4.371138e-08, 5.210803e-15, 4, 0, -2)
+
+[node name="Castle_Module_Wall_07" parent="." unique_id=176223376 instance=ExtResource("5_44l3u")]
+transform = Transform3D(-4.371139e-08, -0.99999994, -1.1920929e-07, 0, -1.1920928e-07, 0.9999999, -0.99999994, 4.371138e-08, 5.210803e-15, 18, -2, -4)
+
+[node name="Castle_Module_Wall_08" parent="." unique_id=1653963989 instance=ExtResource("6_44l3u")]
+transform = Transform3D(-4.371139e-08, 0.99999994, 1.1920929e-07, 0, -1.1920928e-07, 0.9999999, 0.99999994, 4.371138e-08, 5.210803e-15, 16, -2, -6)
