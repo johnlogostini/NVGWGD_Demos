@@ -41,10 +41,10 @@ materials/extract_format=0
 materials/extract_path=""
 _subresources={
 "materials": {
-"PH_Stone_Brick_Wall_001": {
+"PH_Old_Stone_Wall": {
 "use_external/enabled": true,
-"use_external/fallback_path": "res://ThirdParty/PolyHaven/Surfaces/PH_Stone_Brick_Wall_001/M_PH_Stone_Brick_Wall_001.tres",
-"use_external/path": "uid://70yne2mhh5m2"
+"use_external/fallback_path": "res://ThirdParty/PolyHaven/Surfaces/PH_Old_Stone_Wall/M_PH_Old_Stone_Wall.tres",
+"use_external/path": "uid://5ufr1jk2jsmw"
 }
 }
 }
